@@ -1,0 +1,25 @@
+
+[
+    {
+      "index": 0,
+      "picture": "img/brie.jpg",
+      "name": "Brie",
+      "price": 2.49,
+      "about": "Quis esse sit duis sunt. Consectetur anim laboris in esse laborum pariatur elit commodo nulla laboris. Elit deserunt dolore proident fugiat elit. Culpa ex velit consequat irure nulla quis culpa excepteur deserunt sunt voluptate incididunt."
+    },
+    {
+      "index": 1,
+      "picture": "img/mozzarella.jpg",
+      "name": "Mozzarella",
+      "price": 0.73,
+      "about": "Excepteur dolor culpa anim non fugiat laboris in enim dolore est exercitation. Et labore minim ex sit aliqua id Lorem pariatur veniam culpa ea adipisicing pariatur laborum. Occaecat eu labore ut elit irure. Duis sint nisi proident anim adipisicing labore consectetur reprehenderit incididunt cillum labore adipisicing aliqua sunt."
+    },
+    {
+      "index": 2,
+      "picture": "img/processed_cheese.jpg",
+      "name": "Smeltkaas",
+      "price": 1.24,
+      "about": "Magna dolor ex ad do laborum anim deserunt mollit. Pariatur veniam sint elit esse enim in. Commodo culpa laboris incididunt velit. Sit non reprehenderit occaecat sunt consectetur ipsum ea laboris culpa adipisicing dolore incididunt aute."
+    }
+    
+  ]

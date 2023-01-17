@@ -1,0 +1,43 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "rules": {
+        "indent": [
+            "error",
+            "tab"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "no-template-curly-in-string": [
+            "error"
+        ],
+        "no-use-before-define": [
+            "error", { 
+                "functions": true, 
+                "classes": true, 
+                "variables": true 
+            }
+        ],
+        "no-empty-function" : "error",
+        "no-lone-blocks" : "error",
+        "no-lonely-if": "error",
+        "no-useless-concat": "error",
+        "no-var": "error",
+        "require-await": "error",
+        "vars-on-top": "error",
+        "no-mixed-spaces-and-tabs": ["error", "smart-tabs"]
+    }
+}
